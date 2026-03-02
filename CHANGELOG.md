@@ -1287,6 +1287,7 @@ All notable changes to this project will be documented in this file.
 - *(api)* Change domains to urls
 - *(api)* Improve domains API docs
 - *(api)* Improve app endpoint deprecation description
+- Update changelog
 
 ### ⚡ Performance
 
@@ -1404,6 +1405,12 @@ All notable changes to this project will be documented in this file.
 - Add pr quality check workflow
 - Do not build or generate changelog on pr-quality changes
 - Add pr quality check via anti slop action (#8344)
+- Improve pr quality workflow
+- Delete label removal workflow
+- Improve pr quality workflow (#8374)
+- *(repo)* Improve contributor PR template
+- Add anti-slop v0.2 options to the pr-quality check
+- Improve pr template and quality check workflow (#8574)
 
 ## [4.0.0-beta.426] - 2025-08-28
 
